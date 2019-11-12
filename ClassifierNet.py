@@ -5,7 +5,7 @@ from torchvision import datasets, transforms
 from torch.nn import functional as F
 
 parser = argparse.ArgumentParser(description='ClassifierNet')
-parser.addArgument('--batchsize', type=int, default=100, metavar='b',
+parser.add_argument('--batchsize', type=int, default=100, metavar='b',
                     help = 'training and testing batch size (default=100)')
 args = parser.parse_args()
 
