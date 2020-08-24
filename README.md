@@ -39,3 +39,18 @@ take the survey below to share your feedback with us. We go through every single
 out the survey in the link below!
 
 https://forms.gle/yfVWJhssyR9AwoUAA
+
+
+# Workshop Series
+
+1. [Intro to Python, Git, and Data Science](https://github.com/delug/Workshop1)
+
+2. [The Mathematics Behind Data Science](https://github.com/delug/Workshop2)
+
+3. [Data Science Techniques and Algorithms](https://github.com/delug/Workshop3)
+
+4. [Intro to Neural Networks](https://github.com/delug/Workshop4)
+
+5. [Layers, Modules & More](https://github.com/delug/Workshop5)
+
+6. [Neural Models and Architectures](https://github.com/delug/Workshop6)
